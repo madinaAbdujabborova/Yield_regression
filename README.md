@@ -20,8 +20,8 @@ The project explores various regression techniques to model the relationship bet
 To run this project, clone the repository and install the necessary Python packages:
 
 ```bash
-git clone https://github.com/madinaAbdujabborova/nt-m-5-h-2-regression.git
-cd nt-m-5-h-2-regression
+git clone https://github.com/madinaAbdujabborova/Yield_regression
+cd Yield_regression
 pip install -r requirements.txt
 ```
 ## Dataset
